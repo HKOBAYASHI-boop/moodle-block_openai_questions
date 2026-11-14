@@ -1,0 +1,8 @@
+{
+  "release": "1.2.1-hkobayashi.1",
+  "verified_on": "2026-11-14",
+  "files": {
+    "api/question.php": "14622083b6720144ad08d5ca92192125e966a70d3e242e2919e82a65076af6cc",
+    "lib.js": "f3759341c0196b244d70864a9bb27343c57c80b9f90ba0b0c29b8d53e62e8bc1"
+  }
+}

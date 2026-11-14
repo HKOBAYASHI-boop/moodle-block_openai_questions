@@ -1,0 +1,5 @@
+* text=auto eol=lf
+openai_questions/** -text
+LICENSE -text
+*.zip binary
+*.png binary
